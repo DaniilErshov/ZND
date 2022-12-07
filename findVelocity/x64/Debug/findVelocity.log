@@ -1,0 +1,13 @@
+﻿  findVelocity.cpp
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(84,18): warning C4101: sum2: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(84,12): warning C4101: sum1: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(206,12): warning C4101: konc: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(410,17): warning C4101: iout: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(376,9): warning C4101: check_ret: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(407,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(388,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(808,12): warning C4101: konc: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(935,12): warning C4101: Tcheck: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(951,11): warning C4101: Yi: неиспользованная локальная переменная
+C:\Users\Данило\source\repos\findVelocity\findVelocity\findVelocity.cpp(952,11): warning C4101: max_sigma_x: неиспользованная локальная переменная
+  findVelocity.vcxproj -> C:\pellec\BUILDDIR\bin\Debug\findVelocity.exe
